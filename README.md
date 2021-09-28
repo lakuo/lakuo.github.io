@@ -1,3 +1,3 @@
 # lakuo.github.io
-Laurence's User Page
-My favorite programming language is C++.
+Laurence's User Page <br/> 
+My favorite programming language is C++. <br/> 
